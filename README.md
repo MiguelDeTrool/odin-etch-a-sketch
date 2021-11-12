@@ -1,0 +1,1 @@
+This is a repository I'm using to follow along with the Odin Project's Etch-a-Sketch page. The tutorial isn't very detailed, it's more of a guideline.
